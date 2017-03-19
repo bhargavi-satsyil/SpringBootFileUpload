@@ -1,0 +1,15 @@
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+<title>ErrorPage</title>
+</head>
+<body>
+	<h3><font color="red">Error Message::</font></h3>
+
+	<div th:if="${message}">
+		<h4 th:text="${message}" />
+	</div>
+	<div>
+		<a href="/">Back to UploadForm!</a>
+	</div>
+</body>
+</html>

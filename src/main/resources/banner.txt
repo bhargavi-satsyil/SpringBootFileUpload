@@ -1,0 +1,19 @@
+                                                                                                             
+                                                                                                             
+FFFFFFFFFFFFFFFFFFFFFFIIIIIIIIIINNNNNNNN        NNNNNNNNRRRRRRRRRRRRRRRRR                  AAA               
+F::::::::::::::::::::FI::::::::IN:::::::N       N::::::NR::::::::::::::::R                A:::A              
+F::::::::::::::::::::FI::::::::IN::::::::N      N::::::NR::::::RRRRRR:::::R              A:::::A             
+FF::::::FFFFFFFFF::::FII::::::IIN:::::::::N     N::::::NRR:::::R     R:::::R            A:::::::A            
+  F:::::F       FFFFFF  I::::I  N::::::::::N    N::::::N  R::::R     R:::::R           A:::::::::A           
+  F:::::F               I::::I  N:::::::::::N   N::::::N  R::::R     R:::::R          A:::::A:::::A          
+  F::::::FFFFFFFFFF     I::::I  N:::::::N::::N  N::::::N  R::::RRRRRR:::::R          A:::::A A:::::A         
+  F:::::::::::::::F     I::::I  N::::::N N::::N N::::::N  R:::::::::::::RR          A:::::A   A:::::A        
+  F:::::::::::::::F     I::::I  N::::::N  N::::N:::::::N  R::::RRRRRR:::::R        A:::::A     A:::::A       
+  F::::::FFFFFFFFFF     I::::I  N::::::N   N:::::::::::N  R::::R     R:::::R      A:::::AAAAAAAAA:::::A      
+  F:::::F               I::::I  N::::::N    N::::::::::N  R::::R     R:::::R     A:::::::::::::::::::::A     
+  F:::::F               I::::I  N::::::N     N:::::::::N  R::::R     R:::::R    A:::::AAAAAAAAAAAAA:::::A    
+FF:::::::FF           II::::::IIN::::::N      N::::::::NRR:::::R     R:::::R   A:::::A             A:::::A   
+F::::::::FF           I::::::::IN::::::N       N:::::::NR::::::R     R:::::R  A:::::A               A:::::A  
+F::::::::FF           I::::::::IN::::::N        N::::::NR::::::R     R:::::R A:::::A                 A:::::A 
+FFFFFFFFFFF           IIIIIIIIIINNNNNNNN         NNNNNNNRRRRRRRR     RRRRRRRAAAAAAA                   AAAAAAA
+  :::***  ${Ansi.RED}      Financial Industry Regulatory Authority       *****::
